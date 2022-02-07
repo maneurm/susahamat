@@ -4,6 +4,7 @@ date: 2022-02-08T06:16:15+07:00
 draft: false
 comment: true
 author: "Omar Khadaffi"
+tags: ["belajar", "hugo"]
 ---
 
 ## Seneng banget anjir

@@ -4,4 +4,5 @@ date: {{ .Date }}
 draft: false
 comment: true
 author: "Omar Khadaffi"
+tags: ["",""]
 ---
