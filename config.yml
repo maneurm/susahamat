@@ -1,6 +1,6 @@
 baseURL: http://khadaffiomar.com/
 languageCode: en-us
-title: OmarKKK
+title: Maneurm
 theme : "PaperMod"
 
 enableRobotsTXT: true
@@ -55,7 +55,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Maneurm"
+    text: "BlogGue"
     icon: https://i.postimg.cc/J4QS9nXJ/android-chrome-192x192.png
     iconHeight: 30
 
