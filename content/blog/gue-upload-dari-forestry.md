@@ -14,7 +14,7 @@ Awalnya sama-sama "S" sih, tapi impact nya gede banget, ini mah udh kayak gua bi
 
 Install nya gampang banget, tinggal signup dan login dengan segala embel-embel di forestry, terus nanti pilih repo github yang kita mau pake forestry, kelar. Lu tinggal bikin Front Matter (ada bagiannya) abis tuh lu sesuaiin sama front matter di Archetypes-default.md lu, kelar dah.
 
-Selain installnya gampang, penggunaannya juga gampang banget anjirlah, ni gue kayaknya betah nulis panjang sekarang. Kalo di VScode tuh kesennya koding terus, jadi kea stress gitu, kalo ini UI nya enak banget gils. Gua sekalian pamer bisa upload foto juga nih,   
+Selain installnya gampang, penggunaannya juga gampang banget anjirlah, ni gue kayaknya betah nulis panjang sekarang. Kalo di VScode tuh kesennya koding terus, jadi kea stress gitu, kalo ini UI nya enak banget gils. Gua sekalian pamer bisa upload foto juga nih,  
 ![NIH UI NYA](/uploads/forfor.jpg "UI Forestry")Gila kan, wkwkwkkwkkw first timer dan kea norak gitu gasih gue? bodo amat lah,
 
 ### Jadi mirip Blogspot
@@ -25,6 +25,6 @@ dah segitu dulu ah, tengs" kalo ada yang baca, ragu sih gue wkwkw..
 
 lanjut ke perkembangan selanjutnya! yihaa
 
-> Lu harus coba dulu, sebelum "dicobain"
+> Lu harus **coba** dulu, sebelum _"dicobain"_
 >
-> Si Paling Bijak
+> _Si Paling Bijak_
