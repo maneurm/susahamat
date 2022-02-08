@@ -1,4 +1,34 @@
 ---
 label: Postingan biasa
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: Uhh... Tesla is giving me 100$ *no klikbeyt
+- name: date
+  type: datetime
+  label: Date
+  description: When?
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
+  description: Who's the <em>Muallif?</em>
+- name: tags
+  type: tag_list
+  default: []
+  description: Give'em some tags!
+  label: Tags
+- name: comment
+  type: boolean
+  label: comment
+  description: u want people u give u shit?
