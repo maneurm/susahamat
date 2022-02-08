@@ -32,3 +32,5 @@ fields:
   type: boolean
   label: comment
   description: u want people u give u shit?
+pages:
+- content/blog/gue-upload-dari-forestry.md
