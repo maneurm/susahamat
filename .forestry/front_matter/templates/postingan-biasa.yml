@@ -15,8 +15,9 @@ fields:
   config:
     required: false
     date_format: 
-    time_format: 
-    display_utc: false
+    time_format: h:mm
+    display_utc: true
+    export_format: DD-MM-YYYY h:mm A
 - name: author
   type: text
   config:
@@ -35,3 +36,4 @@ fields:
 pages:
 - content/blog/gue-upload-dari-forestry.md
 - content/blog/posting-dari-pondok-gres.md
+- content/blog/waktunya-kembali-ke-habitat.md
