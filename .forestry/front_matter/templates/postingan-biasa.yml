@@ -17,7 +17,7 @@ fields:
     date_format: 
     time_format: h:mm
     display_utc: true
-    export_format: DD-MM-YYYY h:mm A
+    export_format: ''
 - name: author
   type: text
   config:
