@@ -1,4 +1,4 @@
-baseURL:
+baseURL: 
 languageCode: en-us
 title: Maneurm
 theme : "PaperMod"
@@ -24,13 +24,13 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: OmarkKK
-  description: "ExampleSite description"
+  description: "Self Rants, Online Journal, achievements. Mine, not yours!"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: dark # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
@@ -64,7 +64,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Omar Khadaffi
     subtitle: "ngoding seru, tapi gue santri"
-    imageUrl: "https://media-exp1.licdn.com/dms/image/C5603AQEWpJxbm_ByKQ/profile-displayphoto-shrink_800_800/0/1617638548918?e=1649894400&v=beta&t=MToDrKOg3N-FJH-3tDJbvDsjPuXbsaYys7lK04CKmxo"
+    imageUrl: "blog/pp.jpg"
     imageWidth: 150
     imageHeight: 150
     imageTitle: Omar Khadaffi
@@ -106,7 +106,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/Omarkhadaffi/susahamat/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
