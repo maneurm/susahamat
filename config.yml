@@ -1,9 +1,9 @@
-baseURL: khadaffiomar.tech
+baseURL:
 languageCode: en-us
 title: Maneurm
 theme : "PaperMod"
 
-enableRobotsTXT: trueb
+enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
@@ -14,7 +14,7 @@ enableEmoji : true
 minify:
   disableXML: true
   minifyOutput: true
-44bbb
+
 outputs:
     home:
         - HTML
@@ -24,8 +24,8 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: OmarkKK
-  description: "A personal online journaling site. Full of rants, wishes, and achievement. Don't care if it good or not. Neither I think about it."
-  keywords: [Blog, Portfolio, PaperMod, Journal, Online Journaling]
+  description: "ExampleSite description"
+  keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -63,8 +63,8 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Omar Khadaffi
-    subtitle: "Online Journaling, Road to Programming series, SantriWrite!"
-    imageUrl: "https://i.postimg.cc/hvz0wQM1/bg.png"
+    subtitle: "ngoding seru, tapi gue santri"
+    imageUrl: "https://media-exp1.licdn.com/dms/image/C5603AQEWpJxbm_ByKQ/profile-displayphoto-shrink_800_800/0/1617638548918?e=1649894400&v=beta&t=MToDrKOg3N-FJH-3tDJbvDsjPuXbsaYys7lK04CKmxo"
     imageWidth: 150
     imageHeight: 150
     imageTitle: Omar Khadaffi
