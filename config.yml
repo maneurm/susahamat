@@ -3,7 +3,7 @@ languageCode: en-us
 title: Maneurm
 theme : "PaperMod"
 
-enableRobotsTXT: true
+enableRobotsTXT: trueb
 buildDrafts: false
 buildFuture: false
 buildExpired: false
@@ -14,7 +14,7 @@ enableEmoji : true
 minify:
   disableXML: true
   minifyOutput: true
-
+44bbb
 outputs:
     home:
         - HTML
