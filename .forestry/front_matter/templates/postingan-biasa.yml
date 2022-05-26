@@ -14,8 +14,8 @@ fields:
   description: When?
   config:
     required: false
-    date_format: 
-    time_format: h:mm
+    date_format: DD/MM/YYYY
+    time_format: hh:mm
     display_utc: true
     export_format: ''
 - name: author
