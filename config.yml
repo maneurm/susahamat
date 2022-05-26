@@ -24,7 +24,7 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: OmarkKK
-  description: "Self Rants, Online Journal, achievements. Mine, not yours!"
+  description: "Self Rants, Online Journal, achievements. Minding my own business!"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
