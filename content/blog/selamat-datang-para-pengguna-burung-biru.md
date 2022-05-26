@@ -6,8 +6,6 @@ tags = ["daily"]
 title = "Selamat Datang Para Pengguna Burung Biru"
 
 +++
-![](https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif)
-
 Gua asumsikan lu adalah pembaca-pembaca pertama gue yang dateng dari post yang gua tulis di twitter gue. Terima kasih deh kalo lu ngeh wkwkkw.
 
 Pokoknya silahkan lu pencet" dan coba" sendiri web ini isinya apa aja... yang penting begitu lu buka [blog](https://khadaffiomar.tech/blog/ "Blog"), disitu semua tulisan gue. Terus kalo lu kepo bulan apa aja gue nulis/dari kapan, lu bisa buka [archive](https://khadaffiomar.tech/archives/ "Archive "). Kalo lu udh pernah baca blog gue yang ada tulisan bagus dan bermanfaat buat lo tapi lo lupa, lu silahkan [search](https://khadaffiomar.tech/search/ "Search"). Searchnya bisa kalo lu inget judulnya aja, tp lupa sisanya. Atau lu bisa tulis kalimat yang ada di dalem tulisan di blog gue itu, gampang banget kan. Terus juga  lu bisa buka [tags](https://khadaffiomar.tech/tags/ "Tags") kalo lu cari postingan berdasarkan kategori yang gw bikin. (1 postingan bisa mengandung 2 kategori ya!)
