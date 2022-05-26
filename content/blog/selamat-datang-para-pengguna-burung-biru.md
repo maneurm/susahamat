@@ -1,6 +1,7 @@
 +++
 author = "Omar Khadaffi"
 comment = true
+draft: false
 date = 2022-05-27T00:15:00Z
 tags = ["daily"]
 title = "Selamat Datang Para Pengguna Burung Biru"
