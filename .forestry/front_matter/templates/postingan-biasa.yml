@@ -34,6 +34,10 @@ fields:
   type: boolean
   label: comment
   description: u want people u give u shit?
+- name: draft
+  type: boolean
+  label: Draft
+  description: Draft it?
 pages:
 - content/blog/gue-upload-dari-forestry.md
 - content/blog/posting-dari-pondok-gres.md
