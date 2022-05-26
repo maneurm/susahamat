@@ -1,9 +1,8 @@
 +++
 author = "Omar Khadaffi"
 comment = true
-date = 2022-05-26T05:49:00Z
-draft = true
-tags = []
+date = 2022-05-27T12:51:00Z
+tags = ["daily"]
 title = "Selamat Datang Para Pengguna Burung Biru"
 
 +++
