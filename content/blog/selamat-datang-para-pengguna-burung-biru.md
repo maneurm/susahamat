@@ -2,7 +2,7 @@
 author = "Omar Khadaffi"
 comment = true
 date = 2022-05-27T12:51:00Z
-draft = true
+draft = false
 tags = ["daily"]
 title = "Selamat Datang Para Pengguna Burung Biru"
 
