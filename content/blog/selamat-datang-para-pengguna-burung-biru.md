@@ -6,7 +6,7 @@ tags = ["daily"]
 title = "Selamat Datang Para Pengguna Burung Biru"
 
 +++
-![](https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif)
+![](https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif)
 
 **Selamat Datang!**
 
