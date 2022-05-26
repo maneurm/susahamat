@@ -28,3 +28,5 @@ collections:
       - file: "content/search.md"
         label: "Search"
         name: "search"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
