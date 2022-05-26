@@ -2,7 +2,6 @@
 author = "Omar Khadaffi"
 comment = true
 date = 2022-05-27T12:34:00Z
-draft = true
 tags = []
 title = "Selamat Datang Para Pengguna Burung Biru-(copy)"
 
