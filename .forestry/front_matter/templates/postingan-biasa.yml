@@ -7,17 +7,18 @@ fields:
   config:
     required: false
   label: Title
-  description: Uhh... Tesla is giving me 100$ *no klikbeyt
+  description: What are you talking about?
 - name: date
   type: datetime
   label: Date
-  description: When?
   config:
     required: false
     date_format: DD/MM/YYYY
     time_format: hh:mm
-    display_utc: true
-    export_format: ''
+    display_utc: false
+    export_format: DD/MM/YYYY h:mm
+  description: When do you finish writing?
+  default: now
 - name: author
   type: text
   config:
