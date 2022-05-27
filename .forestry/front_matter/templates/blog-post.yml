@@ -18,4 +18,5 @@ fields:
   name: comment
   label: comment
 pages:
+- content/blog/selamat-datang-para-pengguna-burung-biru.md
 - content/blog/testing-phone.md
