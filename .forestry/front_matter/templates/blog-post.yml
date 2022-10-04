@@ -18,4 +18,5 @@ fields:
   name: comment
   label: comment
 pages:
+- content/blog/belajar-pake-forestry.md
 - content/blog/selamat-datang-para-pengguna-burung-biru.md
